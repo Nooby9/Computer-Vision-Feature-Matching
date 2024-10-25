@@ -1,2 +1,1 @@
-# Computer-Vision-Feature-Matching
-CS5330 Presentation
+This is a class TED talk about YOLO.
